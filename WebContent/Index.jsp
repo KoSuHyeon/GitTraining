@@ -4,9 +4,12 @@
 <html>
 <head>
 <meta charset="EUC-KR">
-<title>Insert title here</title>
+<title>Git수업</title>
 </head>
 <body>
-
+		<fieldset>
+			<legend>Git 수업</legend>
+			<h2>Git 수업 입니다</h2>
+		</fieldset>
 </body>
 </html>
